@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\svenj\\Unity\\Tutorial 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\svenj\\Unity\\Tutorial 3\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\changepostprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\changepostprocessing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\keepscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\keepscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|c:\\users\\svenj\\unity\\tutorial 3\\assets\\character\\scripts\\lungcancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\lungcancer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|c:\\users\\svenj\\unity\\tutorial 3\\assets\\character\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\sound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\doorvalue3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\doorvalue3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\door3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\door3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\doorvalue2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\doorvalue2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\door2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\magnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\magnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\movebasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\movebasic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\doorvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\doorvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|C:\\Users\\svenj\\Unity\\Tutorial 3\\assets\\character\\scripts\\animatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D761170A-297B-8426-F3EC-4201536BBC21}|Assembly-CSharp.csproj|solutionrelative:assets\\character\\scripts\\animatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepthOfField.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.postprocessing@3.4.0\\PostProcessing\\Runtime\\Effects\\DepthOfField.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T13:20:44.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SOUND.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\SOUND.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\SOUND.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\SOUND.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\SOUND.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T19:23:24.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Main.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Main.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Main.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:30:55.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lungcancer.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Lungcancer.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Lungcancer.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Lungcancer.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Lungcancer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T08:49:08.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Door2.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door2.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Door2.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door2.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Door2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:37:47.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DoorValue2.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue2.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\DoorValue2.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue2.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\DoorValue2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:27:09.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MoveBasic.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\MoveBasic.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\MoveBasic.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\MoveBasic.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\MoveBasic.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:33:33.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KeepScore.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\KeepScore.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\KeepScore.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\KeepScore.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\KeepScore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:32:25.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChangePostProcessing.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\ChangePostProcessing.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\ChangePostProcessing.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\ChangePostProcessing.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\ChangePostProcessing.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T08:06:34.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DoorValue.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\DoorValue.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\DoorValue.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:52:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Door3.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door3.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Door3.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door3.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Door3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAArwBkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:00:50.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DoorValue3.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue3.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\DoorValue3.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\DoorValue3.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\DoorValue3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T13:02:40.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Door.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:30:37.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Numbers.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Numbers.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Numbers.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Numbers.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:33:39.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Magnet.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Magnet.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Magnet.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Magnet.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Magnet.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAEwI0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:32:40.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Jump.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Jump.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Jump.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Jump.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T09:32:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Animatie.cs",
+              "DocumentMoniker": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Animatie.cs",
+              "RelativeDocumentMoniker": "Assets\\character\\Scripts\\Animatie.cs",
+              "ToolTip": "C:\\Users\\svenj\\Unity\\Tutorial 3\\Assets\\character\\Scripts\\Animatie.cs",
+              "RelativeToolTip": "Assets\\character\\Scripts\\Animatie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:52:52.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
